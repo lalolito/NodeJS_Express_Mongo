@@ -17,12 +17,15 @@
     "MongoDB",
     "API ",
     "REST",
-     " Backend"
+    " Backend"
   ],
   "author": "harold",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lalolito/NodeJS_Express_Mongo/issues"
   },
-  "homepage": "https://github.com/lalolito/NodeJS_Express_Mongo#readme"
+  "homepage": "https://github.com/lalolito/NodeJS_Express_Mongo#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
