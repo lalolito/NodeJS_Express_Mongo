@@ -1,0 +1,28 @@
+{
+  "name": "nodejs_express_mongo",
+  "version": "1.0.0",
+  "description": "Laboratorio API REST MongoDB",
+  "main": "hola_harold.js",
+  "scripts": {
+    "test": "package.json."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalolito/NodeJS_Express_Mongo.git"
+  },
+  "keywords": [
+    "package.json.",
+    "NodeJS",
+    "Express",
+    "MongoDB",
+    "API ",
+    "REST",
+     " Backend"
+  ],
+  "author": "harold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalolito/NodeJS_Express_Mongo/issues"
+  },
+  "homepage": "https://github.com/lalolito/NodeJS_Express_Mongo#readme"
+}
